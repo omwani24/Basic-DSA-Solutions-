@@ -1,0 +1,8 @@
+Today i have just over view the array and its concepts for upcomming questions.
+
+An array is a linear data structure used to store multiple elements of the same data type under a single variable name.
+The elements of an array are stored in contiguous memory locations, which allows fast and direct access using index values that start from 0 and go up to n−1.
+Arrays make it easy to manage large amounts of data and are commonly processed using loops.
+They support operations such as traversal, searching, and sorting, and are widely used in problem-solving and competitive programming. 
+However, arrays have a fixed size, which cannot be changed after creation, and insertion or deletion of elements can be time-consuming.
+Despite these limitations, arrays are simple, efficient, and form the foundation of many advanced data structures and algorithms.
